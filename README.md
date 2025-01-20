@@ -3,7 +3,7 @@
 #### This MVP showcases a web app that is basically for travelling and adventure purposes. Our web application  links you up with beautiful gems you should visit while you are in Nairobi, where one can enjoy a good meal and ambience and eventually hotels where one can stay during their stay. (version 1.05.06.2023), 06/05/2023
 
 
-#### By **Tamunotonye Briggs, Edwin Aloo, William Ayim, Augustine Kariuki**
+#### By **Tamunotonye Briggs, Edwin Aloo, William Ayim, Augustine Kariuki and Samillah Vihenda**
 
 ## Description
 Advetour is an application that provides travel-related information to customers acting like an easy access tour guide that tells you where to go, what to see and where to eat. It offers the user a chance to plan their trips at moments notice without having to access too maney materials for the perfect site. We here at Adventour not only want you to have a good time but we like you to also discover beautiful locations that bigger similar service providers usually overlook. We value quality and our clients wanting their trips to be memorable.
